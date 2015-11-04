@@ -12,6 +12,7 @@ body {
 
 .demo-content-container {
     width: 100%;
+    text-align: center;
 }
 
 .demo-content {
@@ -25,11 +26,12 @@ body {
     border-radius: 9px 9px 9px 9px;
     -moz-border-radius: 9px 9px 9px 9px;
     -webkit-border-radius: 9px 9px 9px 9px;
-    padding: 10px;
+    padding: 20px;
     float: left;
-    height: 280px;
-    margin-right: 5px;
-    margin-bottom: 10px;
+    width: 350px;
+    height: 300px;
+    margin-right: 15px;
+    margin-bottom: 15px;
     font-size: 60%;
 }
 
@@ -41,6 +43,7 @@ body {
     -webkit-box-shadow: 10px 11px 27px -3px rgba(0,0,0,0.41);
     -moz-box-shadow: 10px 11px 27px -3px rgba(0,0,0,0.41);
     box-shadow: 10px 11px 27px -3px rgba(0,0,0,0.41);
+    margin-top: 15px;
 }
 
 a {
